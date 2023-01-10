@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 926954835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8175060007cf4ef9cb7a2132beaf3e95
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c033425906e8a1ae2d852b90b8121ae0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9323f08a942438ab595c1ca298c2f34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb675488212e40468826c7929860bb54, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Resources/Prefabs/CardsForVerticalBlock/GreenCardVertical.prefab
+- Assets/Resources/Prefabs/CardsForHorizontalBlock/GreenCardHorizontal.prefab
+- Assets/Resources/Prefabs/CardsForVerticalBlock/RedCardVertical.prefab
+- Assets/Resources/Prefabs/CardsForHorizontalBlock/YellowCardHorizontal.prefab
+- Assets/Resources/Prefabs/CardsForHorizontalBlock/RedCardHorizontal.prefab
+- Assets/Resources/Prefabs/CardsForVerticalBlock/GrayCardVertical.prefab
+Dependencies: []
